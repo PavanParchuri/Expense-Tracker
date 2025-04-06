@@ -28,3 +28,4 @@
 Decide about features
 Decide about database design like tables and their relationships
 How to use containers within the application
+
